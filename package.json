@@ -1,14 +1,17 @@
 {
-    "homepage": "http://codingcody.io/astrology-app",
     "name": "astrology-app",
     "private": true,
     "version": "0.0.0",
+    "homepage": "http://codingcody.github.io/Astrology-App",
     "type": "module",
     "scripts": {
+        "predeploy": "npm run build",
+        "deploy": "gh-pages -d dist",
         "dev": "vite",
         "build": "vite build",
         "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
         "preview": "vite preview"
+
     },
     "dependencies": {
         "react": "^18.2.0",

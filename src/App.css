@@ -26,7 +26,7 @@ h2 {
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-top: 20%;
+    margin-top: 15%;
 }
 
 h1 {
@@ -48,14 +48,20 @@ h1 {
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-top: 30px;
+    margin-top: 90px;
 }
 
 .btn {
     color: #fff;
-    padding: 10px;
+    padding: 20px;
     font-family: "Cormorant Garamond", serif;
     font-weight: 700;
-    font-size: 16px;
+    font-size: 18px;
     border-radius: 20px;
+    background-color: #282828;
+}
+
+.btn:hover {
+    background-color: #323232;
+    transition: ease-in-out .2s;
 }

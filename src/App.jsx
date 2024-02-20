@@ -3,6 +3,7 @@ import "./App.css";
 import { Affirms_Info } from "./components/affirms";
 import { theSigns } from "./components/signs";
 import headImg from "./assets/zodiac.png";
+import { Footer } from "./components/footer";
 // const affirms = ["Embrace your boldness and take courageous action","Ground Yourself and savor lifes pleasures confidently"];
 
 function getRanNum(max) {
@@ -12,12 +13,12 @@ function getRanNum(max) {
 
 function App() {
   const [zodSign, setZodSign] = useState(theSigns[getRanNum(11)]);
-  const [affirms, setAffirms] = useState(Affirms_Info[getRanNum(11)].description);
+  const [affirms, setAffirms] = useState(Affirms_Info[getRanNum(75)].description);
 
   // const affirmGoals = affirms[getRanNum(1)];
   const handleRefresh = () => {
     setZodSign(theSigns[getRanNum(11)]);
-    setAffirms(Affirms_Info[getRanNum(11)].description);
+    setAffirms(Affirms_Info[getRanNum(75)].description);
   }
   return (
     <div>
@@ -29,14 +30,14 @@ function App() {
         <div className="sign">
           {/* <h1> <span className="name">{zodSigns},</span> {affirmGoals}.</h1> */}
           <h1>
-            <span className="name">{zodSign},</span> {affirms}.
+            <span className="name">{zodSign},</span> {affirms}
           </h1>
         </div>
        <div className="btn-ctn">
         <button className="btn" onClick={handleRefresh}>New Affirmation</button>
        </div>
       </header>
-      {/* <footer>Marathon Web Design</footer> */}
+     <Footer />
     </div>
   );
 }

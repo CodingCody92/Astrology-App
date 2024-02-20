@@ -10,5 +10,5 @@ export const theSigns = [
   "Sagittarius",
   "Capricorn",
   "Aquarius",
-  "Pisces",
+  "Pisces"
 ];
