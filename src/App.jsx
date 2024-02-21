@@ -13,12 +13,12 @@ function getRanNum(max) {
 
 function App() {
   const [zodSign, setZodSign] = useState(theSigns[getRanNum(11)]);
-  const [affirms, setAffirms] = useState(Affirms_Info[getRanNum(75)].description);
+  const [affirms, setAffirms] = useState(Affirms_Info[getRanNum(120)].description);
 
   // const affirmGoals = affirms[getRanNum(1)];
   const handleRefresh = () => {
     setZodSign(theSigns[getRanNum(11)]);
-    setAffirms(Affirms_Info[getRanNum(75)].description);
+    setAffirms(Affirms_Info[getRanNum(120)].description);
   }
   return (
     <div>

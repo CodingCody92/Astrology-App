@@ -238,4 +238,152 @@ export const Affirms_Info = [
     description:
       "Comfort and material security are central to your well-being. You work hard to build a stable life, sometimes at the expense of new experiences. Remember, flexibility can also lead to growth and richness in life, not just in finances."
   },
+  {
+    description: "You are patient, persistent, and disciplined in pursuing your dreams."
+  },
+  {
+    description: "You attract and magnetize all that you need to get what you want."
+  },
+  {
+    description: "Be certain that you will get your wish while letting go of how it will happen."
+  },
+  {
+    description: "The Universe will show you the right path to reach your goals."
+  },
+  {
+    description: "You attract success and like-minded people into your life with your positive attitude."
+  },
+  {
+    description: "Every day, you take small steps to make your ideas grounded and real."
+  },
+  {
+    description: "You make mental pictures of your intentions that are simple and to the point."
+  },
+  {
+    description: "Special friends are there to help and bring you strength during difficulties."
+  },
+  {
+    description: "You are flexible and adaptable to change while you pursue your ambitions."
+  },
+  {
+    description: "Riches flow into your life in many ways and from many directions."
+  },
+  {
+    description: "You surround yourself with supportive people who believe in your dreams."
+  },
+  {
+    description: "You act on your instincts and notice the signs and symbols in your life."
+  },
+  {
+    description: 'Dare to accept your flaws and stay humble to receive lessons from the universe.'
+  },
+  {
+    description: "You are not your flaws. Forgive yourself and rise above your past mistakes."
+  },
+  {
+    description: "Your empathy makes you a caring partner, but make sure your own needs are not overlooked."
+  },
+  {
+    description: 'Embrace patience in relationships; your quick pace can sometimes be overwhelming for others.'
+  },
+  {
+    description: "Recognize the value of reflection; it's as important as action in personal growth."
+  },
+  {
+    description: 'Your reliability is a strength, but try to be more adaptable to change in relationships.'
+  },
+  {
+    description: 'Your adaptability is an asset, but consistency is key in building trust.'
+  },
+  {
+    description: "Set healthy boundaries in relationships to maintain your emotional well-being."
+  },
+  {
+    description: "Your empathy is a gift, but ensure it's not at the cost of your own feelings."
+  },
+  {
+    description: 'Cultivate listening skills; attention is a two-way street in relationships.'
+  },
+  {
+    description: 'Your desire for perfection is high, but learn to embrace imperfections in others.'
+  },
+  {
+    description: 'Remember, true fairness in love means both giving and receiving equally.'
+  },
+  {
+    description: "Cherish and maintain your individuality; it's as important as the harmony in your relationship."
+  },
+  {
+    description: 'Your natural inclination to protect may sometimes be perceived as control. Aim for a balance of care and freedom.'
+  },
+  {
+    description: "Open communication about your deep emotions will strengthen your bonds."
+  },
+  {
+    description: 'Embrace emotional depth in your relationships; it will bring a richness you crave.'
+  },
+  {
+    description: 'Embrace your uniqueness & celebrate your individuality.'
+  },
+  {
+    description: "You are resilient. You can overcome any challenge."
+  },
+  {
+    description: 'In your pursuit of success, make sure to carve out quality time for your relationships.'
+  },
+  {
+    description: "Reliability is your strength, but flexibility can bring unexpected joy in love."
+  },
+  {
+    description: 'Your potential is endless.'
+  },
+  {
+    description: "You are worthy to be loved."
+  },
+  {
+    description: "Joy flows easily to you."
+  },
+  {
+    description: "Change can be painful for you, but sometimes that is the only way forward."
+  },
+  {
+    description: "You're a social butterfly. Balance your wide circle of friends by nurturing a few close, trustworthy relationships."
+  },
+  {
+    description: "Communication is key in your sexual relationships. Express your desires openly for a fulfilling experience."
+  },
+  {
+    description: "Your passionate nature makes you a dynamic lover. Balancing your desires with sensitivity to your partner enhances intimacy."
+  },
+  {
+    description: "You exude sexual confidence."
+  },
+  {
+    description: "Be the visionary in your group, encouraging friends to think about the future and big ideas."
+  },
+  {
+    description: "Seek equality and intellectual connection in relationships, valuing deep conversations."
+  },
+  {
+    description: "Bring creativity and playfulness into your sex life, making each encounter a show of passion."
+  },
+  {
+    description: "Plan intimate, cozy evenings at home that deepen your emotional connection."
+  },
+  {
+    description: "Suggest new positions or locations. Outdoor or unusual settings can be exciting. Keeping things light and fun is key."
+  },
+  {
+    description: "Trust that things will work out this year, even in uncertain times."
+  },
+  {
+    description: "Stay true to your values and move with purpose."
+  },
+  {
+    description: "Radiate your inner sun and bask in your personal power."
+  },
+  {
+    description: "Build emotional resilience and wield your power wisely."
+  },
+
 ];
