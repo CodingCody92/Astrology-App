@@ -1,6 +1,7 @@
 # About the project
 
-This is a small app that I created that details a zodiac sign, and a short affirmation for said zodiac. On refresh, it will give a random sign and affirmation.
+This is a small app that I created that details a zodiac sign, and a short affirmation for said zodiac. Click the button to get a new affirmation
+.
 
 ## How It's Made
 
